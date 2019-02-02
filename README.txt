@@ -1,3 +1,8 @@
+A simple solidity contract for the Ethereum blockchain, that provides many functionalities.
+
+
+
+
 1- the offer_valid_time argument in the functions (CarPropose, PurchasePropose) is given in terms of days.
 	example: CarPropose (car_id, price, 5) means that starting from now, the offer is valid for 5 days.
 
